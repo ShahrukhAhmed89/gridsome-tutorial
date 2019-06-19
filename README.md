@@ -1,14 +1,11 @@
-# Default starter for Gridsome
+# Building Your Website With Gridsome - A Complete Guide.
 
-This is the project you get when you run `gridsome create new-project`.
+Read the blog [here]()
 
-### 1. Install Gridsome CLI tool if you don't have
+1) [Creating Pages](https://github.com/ShahrukhAhmed89/gridsome-tutorial/tree/Gridsome-Pages)
 
-`npm install --global @gridsome/cli`
+2) [Building a Blog](https://github.com/ShahrukhAhmed89/gridsome-tutorial/tree/Building-The-Blog)
 
-### 2. Create a Gridsome project
+3) Creating Author and Tag Pages
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+4) [Creating Reusable Components](https://github.com/ShahrukhAhmed89/gridsome-tutorial/tree/Creating-Reusable-Components)
