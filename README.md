@@ -1,6 +1,6 @@
 # Building Your Website With Gridsome - A Complete Guide.
 
-Read the blog [here] ()
+Read the blog [here]()
 
 1) [Creating Pages](https://github.com/ShahrukhAhmed89/gridsome-tutorial/tree/Gridsome-Pages)
 
