@@ -2,7 +2,7 @@
 
 ![cover image](https://github.com/ShahrukhAhmed89/gridsome-tutorial/blob/master/cover.png)
 
-Read the blog [here]()
+**Read the blog [here]()**
 
 1) [Creating Pages](https://github.com/ShahrukhAhmed89/gridsome-tutorial/tree/Gridsome-Pages)
 
