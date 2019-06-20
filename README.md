@@ -1,7 +1,5 @@
 # Building Your Website With Gridsome - A Complete Guide.
 
-## Building the blog
-
 Read the blog [here](https://stuffwelearned.com/blog/building-your-website-with-gridsome-a-complete-guide/#creating-author-and-tag-pages)
 
 1) [Creating Pages](https://github.com/ShahrukhAhmed89/gridsome-tutorial/tree/Gridsome-Pages)
